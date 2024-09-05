@@ -6,7 +6,7 @@ All project elements and resources will rely on public and open-source technolog
 
 ## Project Overview
 
-![Alt text](./architecture.png)
+![Alt text](./architecture.excalidraw.png)
 
 Version control and interoperability are crucial for the success of this project. We will prioritize the use of the most widely adopted and interoperable solutions for open-source projects to ensure seamless collaboration.
 
